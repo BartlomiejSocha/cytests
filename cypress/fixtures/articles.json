@@ -1,0 +1,46 @@
+{
+    "articles": [
+        {
+            "slug": "Title Slug1",
+            "title": "Title1",
+            "description": "Discover Bondar Academy description",
+            "tagList": [
+                "qa career",
+                "Bondar Academy",
+                "QA Skills",
+                "Value-Focused"
+            ],
+            "createdAt": "2024-01-27T21:52:32.682Z",
+            "updatedAt": "2024-01-27T21:52:32.682Z",
+            "favorited": false,
+            "favoritesCount": 1,
+            "author": {
+                "username": "Artem Bondar",
+                "bio": null,
+                "image": "https://storage.googleapis.com/bondar-academy-visuals/Android.png",
+                "following": false
+            }
+        },
+        {
+            "slug": "Title Slug2",
+            "title": "Title2",
+            "body": "At Bondar Academy body",
+            "tagList": [
+                "Bondar Academy",
+                "Video Lectures",
+                "Tutorials"
+            ],
+            "createdAt": "2024-01-27T21:50:38.825Z",
+            "updatedAt": "2024-01-27T21:50:38.825Z",
+            "favorited": false,
+            "favoritesCount": 5,
+            "author": {
+                "username": "Artem Bondar",
+                "bio": null,
+                "image": "https://storage.googleapis.com/bondar-academy-visuals/Android.png",
+                "following": false
+            }
+        }
+    ],
+    "articlesCount": 10
+}
